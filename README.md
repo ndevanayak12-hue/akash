@@ -1,2 +1,2 @@
 # akash
-sample example
+hello world
